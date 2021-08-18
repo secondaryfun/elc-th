@@ -1,0 +1,65 @@
+:::: Log File ::::
+[18/8/2021 -- 1:11]  Info task started
+[18/8/2021 -- 1:11]  Mustache Templates ran on the HTML files
+[18/8/2021 -- 1:11]  Scripts ran on main.js
+[18/8/2021 -- 1:11]  Sass ran on files
+[18/8/2021 -- 1:19]  Scripts ran on main.js
+[18/8/2021 -- 1:19]  Scripts ran on main.js
+[18/8/2021 -- 1:19]  Scripts ran on main.js
+[18/8/2021 -- 1:19]  Scripts ran on main.js
+[18/8/2021 -- 1:20]  Scripts ran on main.js
+[18/8/2021 -- 1:21]  Scripts ran on main.js
+[18/8/2021 -- 1:29]  Scripts ran on main.js
+[18/8/2021 -- 1:30]  Scripts ran on main.js
+[18/8/2021 -- 1:31]  Scripts ran on main.js
+[18/8/2021 -- 1:34]  Scripts ran on main.js
+[18/8/2021 -- 1:34]  Scripts ran on main.js
+[18/8/2021 -- 1:34]  Scripts ran on main.js
+[18/8/2021 -- 1:38]  Scripts ran on main.js
+[18/8/2021 -- 1:41]  Scripts ran on main.js
+[18/8/2021 -- 1:42]  Scripts ran on main.js
+[18/8/2021 -- 1:42]  Scripts ran on main.js
+[18/8/2021 -- 1:43]  Scripts ran on main.js
+[18/8/2021 -- 1:44]  Scripts ran on main.js
+[18/8/2021 -- 1:45]  Scripts ran on main.js
+[18/8/2021 -- 1:45]  Scripts ran on main.js
+[18/8/2021 -- 1:45]  Scripts ran on main.js
+[18/8/2021 -- 1:45]  Scripts ran on main.js
+[18/8/2021 -- 1:45]  Scripts ran on main.js
+[18/8/2021 -- 1:45]  Scripts ran on main.js
+[18/8/2021 -- 1:45]  Scripts ran on main.js
+[18/8/2021 -- 1:46]  Scripts ran on main.js
+[18/8/2021 -- 1:46]  Scripts ran on main.js
+[18/8/2021 -- 1:47]  Scripts ran on main.js
+[18/8/2021 -- 1:48]  Scripts ran on main.js
+[18/8/2021 -- 1:51]  restarted!
+[18/8/2021 -- 2:44]  restarted!
+[18/8/2021 -- 3:1]  Info task started
+[18/8/2021 -- 3:1]  Mustache Templates ran on the HTML files
+[18/8/2021 -- 3:1]  Scripts ran on main.js
+[18/8/2021 -- 3:1]  Sass ran on files
+[18/8/2021 -- 3:23]  restarted!
+[18/8/2021 -- 3:24]  restarted!
+[18/8/2021 -- 3:24]  restarted!
+[18/8/2021 -- 3:36]  restarted!
+[18/8/2021 -- 3:36]  restarted!
+[18/8/2021 -- 3:37]  restarted!
+[18/8/2021 -- 3:37]  restarted!
+[18/8/2021 -- 3:38]  restarted!
+[18/8/2021 -- 3:39]  restarted!
+[18/8/2021 -- 3:39]  restarted!
+[18/8/2021 -- 3:40]  restarted!
+[18/8/2021 -- 3:40]  restarted!
+[18/8/2021 -- 3:40]  restarted!
+[18/8/2021 -- 3:40]  restarted!
+[18/8/2021 -- 3:41]  restarted!
+[18/8/2021 -- 3:41]  restarted!
+[18/8/2021 -- 3:56]  restarted!
+[18/8/2021 -- 3:56]  restarted!
+[18/8/2021 -- 9:9]  Info task started
+[18/8/2021 -- 9:9]  Mustache Templates ran on the HTML files
+[18/8/2021 -- 9:9]  Scripts ran on main.js
+[18/8/2021 -- 9:9]  Sass ran on files
+[18/8/2021 -- 9:24]  restarted!
+[18/8/2021 -- 9:24]  restarted!
+[18/8/2021 -- 9:25]  restarted!
